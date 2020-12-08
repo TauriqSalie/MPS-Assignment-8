@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MPS_Assignment_8.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="OrangeRed" Padding="24" CornerRadius="0">
+            <Label Text="The Snazzy Clothing Store" HorizontalTextAlignment="Center" TextColor="White" FontSize="24"/>
+        </Frame>
+        
+        <Entry Text= "Name"  x:Name="ordername"/>
+        <Entry Text="Gender" x:Name="ordergender"/>
+        <Entry Text="T-Shirt Size" x:Name="ordertshirtsize"/>
+        <Entry Text="Date of Order" x:Name="orderdateoforder"/>
+        <Entry Text="T-Shirt Colour" x:Name="ordertshirtcolour"/>
+        <Entry Text="Shipping Address" x:Name="ordershippingaddress"/>
+
+        <Button Text="Add Details" Clicked="AddDetails_Button_Clicked"/>
+        <Button Text="Get Customer Details" Clicked="GetCustomerDetails_Button_Clicked"/>
+
+
+    </StackLayout>
+
+</ContentPage>

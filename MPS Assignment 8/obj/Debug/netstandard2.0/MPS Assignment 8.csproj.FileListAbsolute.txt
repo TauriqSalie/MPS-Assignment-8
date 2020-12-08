@@ -1,0 +1,15 @@
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\bin\Debug\netstandard2.0\MPS Assignment 8.deps.json
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\bin\Debug\netstandard2.0\MPS Assignment 8.dll
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\bin\Debug\netstandard2.0\ref\MPS Assignment 8.dll
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\bin\Debug\netstandard2.0\MPS Assignment 8.pdb
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\MPS Assignment 8.csprojAssemblyReference.cache
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\MPS Assignment 8.AssemblyInfoInputs.cache
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\MPS Assignment 8.AssemblyInfo.cs
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\MPS Assignment 8.csproj.CoreCompileInputs.cache
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\XamlC.stamp
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\MPS Assignment 8.dll
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\ref\MPS Assignment 8.dll
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\MPS Assignment 8.pdb
+C:\uwcwork\MPS Assignment 8\MPS Assignment 8\MPS Assignment 8\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
